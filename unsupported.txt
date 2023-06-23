@@ -1,5 +1,10 @@
 Hi 
 This is unsupported document which can be delete after fetch and pull commands!
 
+<<<<<<< HEAD
 What ever it should create a merge confilicts!
+=======
+Will plan with documentation!
+
+>>>>>>> 9e5402b (merge conflict)
 No need to add anything!
