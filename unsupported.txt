@@ -5,4 +5,8 @@ Will plan with documentation!
 
 No need to add anything!
 
+<<<<<<< HEAD
 What ever it should create a merge confilicts!
+=======
+Plan always pull before adding 
+>>>>>>> 1980298 (untracl)
