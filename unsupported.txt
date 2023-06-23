@@ -1,5 +1,5 @@
 Hi 
 This is unsupported document which can be delete after fetch and pull commands!
 
-
+What ever it should create a merge confilicts!
 No need to add anything!
