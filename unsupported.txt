@@ -1,0 +1,12 @@
+Hi 
+This is unsupported document which can be delete after fetch and pull commands!
+
+Will plan with documentation!
+
+No need to add anything!
+
+<<<<<<< HEAD
+What ever it should create a merge confilicts!
+=======
+Plan always pull before adding 
+>>>>>>> 1980298 (untracl)
